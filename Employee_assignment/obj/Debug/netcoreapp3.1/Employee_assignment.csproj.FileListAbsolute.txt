@@ -1,0 +1,13 @@
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\bin\Debug\netcoreapp3.1\Employee_assignment.exe
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\bin\Debug\netcoreapp3.1\Employee_assignment.deps.json
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\bin\Debug\netcoreapp3.1\Employee_assignment.runtimeconfig.json
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\bin\Debug\netcoreapp3.1\Employee_assignment.runtimeconfig.dev.json
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\bin\Debug\netcoreapp3.1\Employee_assignment.dll
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\bin\Debug\netcoreapp3.1\Employee_assignment.pdb
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\obj\Debug\netcoreapp3.1\Employee_assignment.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\obj\Debug\netcoreapp3.1\Employee_assignment.AssemblyInfoInputs.cache
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\obj\Debug\netcoreapp3.1\Employee_assignment.AssemblyInfo.cs
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\obj\Debug\netcoreapp3.1\Employee_assignment.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\obj\Debug\netcoreapp3.1\Employee_assignment.dll
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\obj\Debug\netcoreapp3.1\Employee_assignment.pdb
+C:\Users\Administrator\source\repos\Employee_assignment\Employee_assignment\obj\Debug\netcoreapp3.1\Employee_assignment.genruntimeconfig.cache
