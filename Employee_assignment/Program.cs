@@ -6,9 +6,7 @@ namespace Employee_assignment
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Iam is usecase1");
-
-           
+            Console.WriteLine("Hello Employee! Welcome");
 
 
         }
